@@ -8,3 +8,6 @@ data/processed/
 data/outputs/
 *.db
 data/raw/
+# drivers / binaries
+msedgedriver.exe
+*.exe
